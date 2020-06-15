@@ -1,0 +1,7 @@
+C:\Users\andre\source\repos\BruchKlasse\BruchKlasse\bin\Debug\BruchKlasse.exe.config
+C:\Users\andre\source\repos\BruchKlasse\BruchKlasse\bin\Debug\BruchKlasse.exe
+C:\Users\andre\source\repos\BruchKlasse\BruchKlasse\bin\Debug\BruchKlasse.pdb
+C:\Users\andre\source\repos\BruchKlasse\BruchKlasse\obj\Debug\BruchKlasse.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\BruchKlasse\BruchKlasse\obj\Debug\BruchKlasse.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\BruchKlasse\BruchKlasse\obj\Debug\BruchKlasse.exe
+C:\Users\andre\source\repos\BruchKlasse\BruchKlasse\obj\Debug\BruchKlasse.pdb
